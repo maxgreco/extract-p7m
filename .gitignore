@@ -24,6 +24,9 @@ estratti/
 Thumbs.db
 desktop.ini
 
+# Windows PowerShell
+*.ps1.bak
+
 # IDE
 .vscode/
 .idea/
