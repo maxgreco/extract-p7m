@@ -1,0 +1,30 @@
+# File di test
+*.p7m
+*.pdf
+*.docx
+*.xml
+
+# Log files
+*.log
+
+# Directory temporanee
+tmp/
+temp/
+test/
+estratti/
+
+# Backup files
+*~
+*.bak
+*.swp
+*.swo
+
+# OS files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# IDE
+.vscode/
+.idea/
+*.sublime-*
